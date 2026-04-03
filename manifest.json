@@ -74,6 +74,32 @@
         "blob/6a10eba8ce29de61a2a24e50e917d2dd54b35332.nq.gz",
         "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
         "blob/4e379d2bfeab6461d0455bf5bbb8792845d9bbea.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/17116ff7c9013772e6815b6b6dd16583d1518591.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/17116ff7c9013772e6815b6b6dd16583d1518591.nq.gz",
+      "repolex": "aggregate/repolex/17116ff7c9013772e6815b6b6dd16583d1518591.nq.gz",
+      "dep": "dep/17116ff7c9013772e6815b6b6dd16583d1518591.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "langchain-core",
+          "ecosystem": "PYPI",
+          "version": "0.3",
+          "githubOrg": "langchain-ai",
+          "githubRepo": "langchain",
+          "githubUrl": "https://github.com/langchain-ai/langchain",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pyld",
+          "ecosystem": "PYPI",
+          "version": "2",
+          "githubOrg": "digitalbazaar",
+          "githubRepo": "pyld",
+          "githubUrl": "https://github.com/digitalbazaar/pyld",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     }
   ],
