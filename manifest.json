@@ -22,6 +22,23 @@
         "blob/1b39a795a6f8b392552e440fe4bad3937129d0cb.nq.gz",
         "blob/056fce806d0b314ebd074d1a664a6fa90e135f89.nq.gz",
         "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/90c1df130145921a302340b33dd61ac6db03ed6f.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/90c1df130145921a302340b33dd61ac6db03ed6f.nq.gz",
+      "repolex": "aggregate/repolex/90c1df130145921a302340b33dd61ac6db03ed6f.nq.gz",
+      "dep": "dep/90c1df130145921a302340b33dd61ac6db03ed6f.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "langchain",
+          "ecosystem": "PYPI",
+          "version": "0.3",
+          "githubOrg": "langchain-ai",
+          "githubRepo": "langchain",
+          "githubUrl": "https://github.com/langchain-ai/langchain",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     }
   ],

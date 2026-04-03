@@ -36,10 +36,40 @@
       "repolex:graphType": "pr",
       "repolex:graphFilePath": "pr/pr.nq.gz",
       "repolex:graphFileSize": 661
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "repolex",
+      "repolex:graphFilePath": "aggregate/repolex/90c1df130145921a302340b33dd61ac6db03ed6f.nq.gz",
+      "repolex:graphFileSize": 650
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "ast",
+      "repolex:graphFilePath": "aggregate/ast/90c1df130145921a302340b33dd61ac6db03ed6f.nq.gz",
+      "repolex:graphFileSize": 814
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "lsp",
+      "repolex:graphFilePath": "aggregate/lsp/90c1df130145921a302340b33dd61ac6db03ed6f.nq.gz",
+      "repolex:graphFileSize": 65
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "dep",
+      "repolex:graphFilePath": "dep/90c1df130145921a302340b33dd61ac6db03ed6f.nq.gz",
+      "repolex:graphFileSize": 334
     }
   ],
   "repolex:parseStatus": "parsed",
   "repolex:parsedAt": "2026-04-03T01:07:47.502972+00:00",
   "repolex:parserVersion": "0.1.0",
-  "git:tagName": "0.0.0"
+  "git:tagName": "0.0.0",
+  "repolex:dependencyRepo": [
+    {
+      "@id": "https://repolex.ai/r/langchain-ai/langchain",
+      "repolex:packageName": "langchain"
+    }
+  ]
 }
