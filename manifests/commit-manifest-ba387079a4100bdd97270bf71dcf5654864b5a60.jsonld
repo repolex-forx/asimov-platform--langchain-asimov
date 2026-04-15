@@ -36,6 +36,30 @@
       "repolex:graphType": "pr",
       "repolex:graphFilePath": "pr/pr.nq.gz",
       "repolex:graphFileSize": 661
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "repolex",
+      "repolex:graphFilePath": "aggregate/repolex/ba387079a4100bdd97270bf71dcf5654864b5a60",
+      "repolex:graphFileSize": 4096
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "ast",
+      "repolex:graphFilePath": "aggregate/ast/ba387079a4100bdd97270bf71dcf5654864b5a60",
+      "repolex:graphFileSize": 4096
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "lsp",
+      "repolex:graphFilePath": "aggregate/lsp/ba387079a4100bdd97270bf71dcf5654864b5a60.nq.gz",
+      "repolex:graphFileSize": 8212
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "dep",
+      "repolex:graphFilePath": "dep/ba387079a4100bdd97270bf71dcf5654864b5a60.nq.gz",
+      "repolex:graphFileSize": 667
     }
   ],
   "repolex:parseStatus": "parsed",
