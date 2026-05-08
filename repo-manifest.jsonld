@@ -28,8 +28,9 @@
     {
       "@id": "https://repolex.ai/r/asimov-platform/langchain-asimov/commit/9ddfcc87874dcee60cd4c23f7489cb8a8518cb67",
       "git:hexsha": "9ddfcc87874dcee60cd4c23f7489cb8a8518cb67",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "0.0.3"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.0.3",
+      "repolex:parsedAt": "2026-05-08T01:02:52.210537+00:00"
     },
     {
       "@id": "https://repolex.ai/r/asimov-platform/langchain-asimov/commit/ba387079a4100bdd97270bf71dcf5654864b5a60",
